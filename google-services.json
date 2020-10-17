@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690999698807",
+    "firebase_url": "https://hawker-bazaar-vendor.firebaseio.com",
+    "project_id": "hawker-bazaar-vendor",
+    "storage_bucket": "hawker-bazaar-vendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690999698807:android:80bf64e27dcf5a4d376d72",
+        "android_client_info": {
+          "package_name": "com.hawkerbazaar.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690999698807-k87l38ffnul8nr2dn5itrm5g2vjf460u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9SvUTj68USpAmPqe1qOTz-V1Lf2Vezk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690999698807-k87l38ffnul8nr2dn5itrm5g2vjf460u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
